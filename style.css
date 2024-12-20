@@ -597,9 +597,10 @@ footer {
   font-weight: 400;
   margin-top: -50px;
 }
-footer p {
+.footer a {
   display: flex;
   gap: 18px;
+  color: white;
 }
 
 .prev__button {
